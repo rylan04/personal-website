@@ -1,0 +1,125 @@
+* {
+    padding: 0;
+    margin:0 ;    
+}
+/* p {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 25%;
+} */
+/* .content {
+    height: 250px;
+    width: 250px;
+    margin-left: 25%;
+    background-color: red;
+} */
+
+
+.content {
+    text-align: center;
+    margin-top: 15%;
+}
+
+.content p {
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+.content i {
+    margin-right: 10px;
+}
+
+.content a {
+    text-decoration: none;
+}
+
+#copyright {
+    position: absolute;
+    margin: 0 auto;
+    bottom: 5px;
+    color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .cursor,
+.cursor2,
+.cursor3 {
+    position: fixed;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    left: -100px;
+    top: 50%;
+}
+
+.cursor {
+    background-color: #fff;
+    height: 0;
+    width: 0;
+    z-index: 99;
+}
+
+.cursor2,
+.cursor3 {
+    height: 30px;
+    width: 30px;
+    z-index: 99;
+    transition: all .3s ease-out;
+}
+
+.cursor2.hover,
+.cursor3.hover{
+    transform: scale(2) translateX(-25%) translateY(-25%);
+    border: none;
+    mix-blend-mode: difference;
+}
+
+.cursor2 {
+    border: 1px solid #fff;
+    opacity: 1;
+}
+
+.cursor2.hover {
+    background: #fff;
+} */
